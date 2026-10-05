@@ -1,6 +1,6 @@
 # Dhyuthi-6.0_Songwriting_Studio
 
-Songwriting Studio was developed for the AIGENIX competition at Dhyuthi 6.0, where the challenge was to come up with an innovative idea and build a solution using AI Agents.
+Songwriting Studio was developed for the AIGENIX competition at Dhyuthi 6.0, where the challenge was to come up with an innovative idea and build a solution using AI Agents. I was able to secure first place in this competition.
 
 # Overview
 
